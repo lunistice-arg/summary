@@ -7,7 +7,7 @@ If a Link starts with `/`, it is meant to be used in conjunction with `http://lu
 The ARG is played mostly on this website as well as the Discord channel #a-r-g on the [Lunistice Discord]. Progress up to and including May 6 was made on the [HerrDekay Discord], specifically in the #❓arg channel.  
 All times stated in this document are in CET/CEST, whichever is applicable at that point in time.  
 HerrDekay's Twitch-Channel can be found on [dekay.tv].  
-The original Pastebin-based summary text was made by "Schattenkobold", with additions by "Nemm".
+All contributors to this summary can be found in [CONTRIBUTORS].
  
  
 ## The Beginning (prior to April 30)
@@ -177,6 +177,7 @@ The creator nudged the summary writer to update the summary, noting that we migh
 [Lunistice Discord]: https://discord.gg/YfXtjAR
 [HerrDekay Discord]: https://dekay.tv/discord
 [dekay.tv]: https://dekay.tv
+[CONTRIBUTORS]: https://github.com/lunistice-arg/summary/blob/master/CONTRIBUTORS
 [oyrxvbdg.gif]: http://lunisticegame.com/oyrxvbdg.gif
 [First Present]: https://bit.ly/2HO6Xin
 [Weathered Key]: http://lunisticegame.com/takeitkeepit.gif
