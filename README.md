@@ -172,7 +172,7 @@ The second comment also contained music note characters, stirring the thought th
 
 [Suicune's notes on the 'barcode']
 
-The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an archive of [/theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change.
+The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an [archive of /theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change.
 
 ## Minigame! (23.07)
 
@@ -210,5 +210,6 @@ If you unpack the .zip file you get a folder called "deepive" and inside the fol
 [/andnowwewait.html]: http://lunisticegame.com/andnowwewait.html
 [/dGhlcG9ydGFs.gif]: http://lunisticegame.com/dGhlcG9ydGFs.gif
 [/theportal.html]: http://lunisticegame.com/theportal.html
+[archive of /theportal.html]: https://github.com/lunistice-arg/summary/blob/master/archive/theportal.html
 [Suicune's notes on the 'barcode']: https://puu.sh/AUG2N/c5e63f222f.txt
 [deepdive.exe without keyfile]: https://puu.sh/AVUfJ/def69551a4.png
