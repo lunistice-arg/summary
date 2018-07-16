@@ -172,7 +172,24 @@ The second comment also contained music note characters, stirring the thought th
 
 [Suicune's notes on the 'barcode']
 
-The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an archive of [/theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change. 
+The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an archive of [/theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change.
+
+## Minigame! (23.07)
+
+The creator posted at 23:07 (11:07 pm) another emoji of a present. [/theportal.html] changed and you can now read the following in the HTML code
+
+```
+the story of the first
+        and the infinite sheol
+           time to start your deep dive
+```
+and
+```
+http://lunisticegame.com/deepdive.zip
+```
+If you unpack the .zip file you get a folder called "deepive" and inside the folder is a "deepdive.exe". If you start the .exe you get the following screen.
+
+![deepdive.exe without keyfile]
 
 [Lunistice Discord]: https://discord.gg/YfXtjAR
 [HerrDekay Discord]: https://dekay.tv/discord
@@ -194,3 +211,4 @@ The creator nudged the summary writer to update the summary, noting that we migh
 [/dGhlcG9ydGFs.gif]: http://lunisticegame.com/dGhlcG9ydGFs.gif
 [/theportal.html]: http://lunisticegame.com/theportal.html
 [Suicune's notes on the 'barcode']: https://puu.sh/AUG2N/c5e63f222f.txt
+[deepdive.exe without keyfile]: https://puu.sh/AVUfJ/def69551a4.png
