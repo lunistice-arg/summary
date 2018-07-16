@@ -172,7 +172,7 @@ The second comment also contained music note characters, stirring the thought th
 
 [Suicune's notes on the 'barcode']
 
-The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an [archive of /theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change.
+The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an archive of [/theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change.
 
 ## Minigame! (23.07)
 
@@ -190,6 +190,22 @@ http://lunisticegame.com/deepdive.zip
 If you unpack the .zip file you get a folder called "deepive" and inside the folder is a "deepdive.exe". If you start the .exe you get the following screen.
 
 ![deepdive.exe without keyfile]
+
+The keyfile turned out to be the [Weathered Key] which had to be put into `%appdata%\DDAS_NFI\`. After placing the keyfile into the correct place and start the .exe again you get asked for a password. If you type in the wrong password it returns
+
+```
+*****************
+
+### ACCES DENIED ###
+
+ENTER SECONDARY PASSWORD:
+```
+
+![deepdive.exe passwordscreen]
+
+The password was quickly found out by "CryZe" and is `theunseenking`. On the next screen you are able to open 3 files. The 2nd and 3rd file turned out to be unreadable by us. Typing in the weird characters doesn't work, they only returned `<what you typed in> DOES NOT EXIST.`
+
+![deepdive.exe filescreen]
 
 [Lunistice Discord]: https://discord.gg/YfXtjAR
 [HerrDekay Discord]: https://dekay.tv/discord
@@ -210,6 +226,7 @@ If you unpack the .zip file you get a folder called "deepive" and inside the fol
 [/andnowwewait.html]: http://lunisticegame.com/andnowwewait.html
 [/dGhlcG9ydGFs.gif]: http://lunisticegame.com/dGhlcG9ydGFs.gif
 [/theportal.html]: http://lunisticegame.com/theportal.html
-[archive of /theportal.html]: https://github.com/lunistice-arg/summary/blob/master/archive/theportal.html
 [Suicune's notes on the 'barcode']: https://puu.sh/AUG2N/c5e63f222f.txt
 [deepdive.exe without keyfile]: https://puu.sh/AVUfJ/def69551a4.png
+[deepdive.exe passwordscreen]: archive/Password%20screen.PNG
+[deepdive.exe filescreen]: archive/FileScreen.PNG
