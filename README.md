@@ -112,7 +112,7 @@ Now we must continue our deep dive and tear it all down
 ```
  
 Twitter-Post of the User: https://twitter.com/KatzeRegi/status/992877438404386816  
-A collection of the symbols and their meaning in the latin alphabet: https://puu.sh/AgM2W/a277f948a1.png
+A collection of the symbols and their meaning in the latin alphabet: [Lunistice Aplhabet]
  
  
 ## Presents!! (May 6)
@@ -207,6 +207,28 @@ The password was quickly found out by "CryZe" and is `theunseenking`. On the nex
 
 ![deepdive.exe filescreen]
 
+The first file was the only one at this point that could be selected. It returned
+
+```
+LOADING THEFIRST.NFV...
+PLEASE WAIT...
+```
+After that a minigame started with simple looking sprites and weird buzzing sound. Watch the following video made by "Schattenkobold" to see whats happening in the minigame: [Deepdive.exe Minigame]
+
+Editors note: HerrDekay was very upset that a user instantly digged into the gamefiles. Grabbing the solution(s) from there is not the correct way and will propably only result in less effort from the creator for future ARG updates.
+
+# Bugfixes (14.07)
+
+On Saturday HerrDekay posted `just updated the archive. the system had a weird bug` in the a-r-g channel on the Lunistice Discord. People tried to decrypt/solve the symbols in the top left corner which resulted in only recognising the letter "B" from the [Lunistice Aplhabet]. After the update user "9bruno9" quickly pointed and found out that from all the different pictures B was always on the first position, E on the second, A on the third and U on the fourth.
+
+![deepdive.exe topleftcornersymbols]
+
+If you write it down you get `BEAU`and `BEAU.NFF` turned out to be the 2nd file name. If you type it in you get 3 pages from what looks like medical data from the Subject "BEAU".
+
+![deepdive.exe BEAU.NFF1_3]
+![deepdive.exe BEAU.NFF2_3]
+![deepdive.exe BEAU.NFF3_3]
+
 [Lunistice Discord]: https://discord.gg/YfXtjAR
 [HerrDekay Discord]: https://dekay.tv/discord
 [dekay.tv]: https://dekay.tv
@@ -224,9 +246,15 @@ The password was quickly found out by "CryZe" and is `theunseenking`. On the nex
 [/holdontoit.html]: http://lunisticegame.com/holdontoit.html
 [/deepdive.html]: http://lunisticegame.com/deepdive.html
 [/andnowwewait.html]: http://lunisticegame.com/andnowwewait.html
+[Lunistice Aplhabet]: archive/font.PNG
 [/dGhlcG9ydGFs.gif]: http://lunisticegame.com/dGhlcG9ydGFs.gif
 [/theportal.html]: http://lunisticegame.com/theportal.html
 [Suicune's notes on the 'barcode']: https://puu.sh/AUG2N/c5e63f222f.txt
 [deepdive.exe without keyfile]: https://puu.sh/AVUfJ/def69551a4.png
 [deepdive.exe passwordscreen]: archive/Password%20screen.PNG
 [deepdive.exe filescreen]: archive/FileScreen.PNG
+[deepdive.exe Minigame]: https://youtu.be/44G9frXUimE
+[deepdive.exe topleftcornersymbols]: archive/topleftcornersymbols.png
+[deepdive.exe BEAU.NFF1_3]: archive/BEAU.NFF1_3.png
+[deepdive.exe BEAU.NFF2_3]: archive/BEAU.NFF2_3.png
+[deepdive.exe BEAU.NFF3_3]: archive/BEAU.NFF3_3.png
