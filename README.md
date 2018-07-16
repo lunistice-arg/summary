@@ -229,6 +229,30 @@ If you write it down you get `BEAU`and `BEAU.NFF` turned out to be the 2nd file 
 ![deepdive.exe BEAU.NFF2_3]
 ![deepdive.exe BEAU.NFF3_3]
 
+# Ring the bells! (16.07)
+
+At 11:16(am) the User "Suicune" found out that the background music in the yellow bell area in the minigame had a code in it. If ring the bells in order of the tunes (the left bell is bell 1 and the lowest tune) you get the code `3243451`. If you ring the bell in that order the game glitches and you can proceed further. Watch the following video made by "Schattenkobold" to see whats happening: [deepdive.exe Minigame Secret]
+
+After you finished the secret part of the minigame a file appeared in `%appdata%\DDAS_NFI\`(some users reported they don't have a new file there). If you open the file in the texteditor you get a bunch of # and 0. [youcant.txt]
+
+Thanks to "myxamop332" it was quickly found out that it contains an QR-Code which was recreated by the following steps:
+
+```
+Replace the # with 1. Use an online "binary to QR" site to create the QR-Code and then use an online QR-Reader.
+```
+
+The QR-Code gives the Link to [/Z2V0dGluZ2Nsb3Nl.html]. There you can download a soundfile.
+
+Soundfile: [followtheguide]
+
+It was later discovered that `Z2V0dGluZ2Nsb3Nl` means `gettingclose` decoded with base 64.
+
+The soundfile contained 14 tunes, 5 different, which resulted, when 1 is the lowest, in following sequence:
+
+`3243451 3423141`
+
+The first half is the same order which resulted in the [deepdive.exe Minigame Secret].
+
 [Lunistice Discord]: https://discord.gg/YfXtjAR
 [HerrDekay Discord]: https://dekay.tv/discord
 [dekay.tv]: https://dekay.tv
@@ -258,3 +282,7 @@ If you write it down you get `BEAU`and `BEAU.NFF` turned out to be the 2nd file 
 [deepdive.exe BEAU.NFF1_3]: archive/BEAU.NFF1_3.png
 [deepdive.exe BEAU.NFF2_3]: archive/BEAU.NFF2_3.png
 [deepdive.exe BEAU.NFF3_3]: archive/BEAU.NFF3_3.png
+[deepdive.exe Minigame Secret]: https://youtu.be/ErVhtgMUixs
+[youcant.txt]: archive/youcant.txt
+[/Z2V0dGluZ2Nsb3Nl.html]: http://lunisticegame.com/Z2V0dGluZ2Nsb3Nl.html
+[followtheguide]: http://lunisticegame.com/followtheguide.wav
