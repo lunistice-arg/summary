@@ -114,7 +114,7 @@ Now we must continue our deep dive and tear it all down
 Twitter-Post of the User: https://twitter.com/KatzeRegi/status/992877438404386816  
 A collection of the symbols and their meaning in the latin alphabet: [Lunistice Aplhabet]
 
-![Lunistice Alphabet]
+![Lunistice Aplhabet]
  
  
 ## Presents!! (May 6)
