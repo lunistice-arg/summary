@@ -172,7 +172,7 @@ The second comment also contained music note characters, stirring the thought th
 
 "Suicune", unsure if it may help, shared some notes on the barcode, containing the lengths of passages, and transliterations to binary digits with `-` for the grey characters.
 
-[Suicune's notes on the 'barcode']
+~~Suicune's notes on the 'barcode'~~ *Editors note: This doesn't work sadly because puu.sh deleted the file, my bad. If you find it pls send it to me in the theories tab located in the Lunistice Discord*
 
 The creator nudged the summary writer to update the summary, noting that we might need it. Considering that, the summary writer decided to add an archive of [/theportal.html] from July 11 2018, 20:55 to the gist, should [/theportal.html] change.
 
