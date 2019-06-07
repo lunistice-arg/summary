@@ -191,7 +191,7 @@ http://lunisticegame.com/deepdive.zip
 ```
 If you unpack the .zip file you get a folder called "deepive" and inside the folder is a "deepdive.exe". If you start the .exe you get the following screen.
 
-![deepdive.exe without keyfile]
+~~deepdive.exe without keyfile~~ *Editors note: This doesn't work sadly because puu.sh deleted the file, my bad. If you find it pls send it to me in the theories tab located in the Lunistice Discord*
 
 The keyfile turned out to be the [Weathered Key] which had to be put into `%appdata%\DDAS_NFI\`. After placing the keyfile into the correct place and start the .exe again you get asked for a password. If you type in the wrong password it returns
 
@@ -272,7 +272,7 @@ The first half is the same order which resulted in the [deepdive.exe Minigame Se
 [/holdontoit.html]: http://lunisticegame.com/holdontoit.html
 [/deepdive.html]: http://lunisticegame.com/deepdive.html
 [/andnowwewait.html]: http://lunisticegame.com/andnowwewait.html
-[Lunistice Aplhabet]: archive/font.PNG
+[Lunistice Aplhabet]: archive/font.png
 [/dGhlcG9ydGFs.gif]: http://lunisticegame.com/dGhlcG9ydGFs.gif
 [/theportal.html]: http://lunisticegame.com/theportal.html
 [Suicune's notes on the 'barcode']: https://puu.sh/AUG2N/c5e63f222f.txt
